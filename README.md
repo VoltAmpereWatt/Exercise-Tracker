@@ -3,8 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project is based on [this project](https://github.com/beaucarnes/mern-exercise-tracker-mongodb) offered at FreeCodeCamp. 
 
 ## Summary
-<p>This is a very simple full-stack project based on the MERN stack. This is an exercise tracking project. Users can be added, their exercises can be tracked by adding the workout name, description, and date performed. The exercises can be modified or deleted.
-<p> The project uses the free tier of MongoDB Atlas, which is a MongoDB server hosted on the cloud, Express.js on the backend for routing and creating models, React.js to build the front-end, and a Node.js runtime.
+This is a very simple full-stack project based on the MERN stack. This is an exercise tracking project. Users can be added, their exercises can be tracked by adding the workout name, description, and date performed. The exercises can be modified or deleted.
+  
+The application's frontend and backend are connected using API endpoints.
+
+The project uses the free tier of MongoDB Atlas, which is a MongoDB server hosted on the cloud, Express.js on the backend for routing and creating models, React.js to build the front-end, and a Node.js runtime.
 
 ## Screenshots
 <p float='left'>
