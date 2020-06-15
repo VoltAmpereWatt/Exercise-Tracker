@@ -7,9 +7,11 @@ This project is based on [this project](https://github.com/beaucarnes/mern-exerc
 <p> The project uses the free tier of MongoDB Atlas, which is a MongoDB server hosted on the cloud, Express.js on the backend for routing and creating models, React.js to build the front-end, and a Node.js runtime.
 
 ## Screenshots
-<img src='./screenshots/mobile.png' width='40%'>
-<img src='./screenshots/addexercise.png' width='40%'>
-<img src='./screenshots/records.png' width='80%'>
+<p float='left'>
+  <img src='./screenshots/mobile.png' width='250'>
+  <img src='./screenshots/addexercise.png' width='250'>
+  <img src='./screenshots/records.png' width='500'>
+</p>
 
 ## Available Scripts
 In the project directory, you can run to get the fron-end running:
